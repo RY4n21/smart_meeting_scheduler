@@ -1,0 +1,3977 @@
+[
+  {
+    "id": 640,
+    "text": "Let's schedule 45 minutes meeting Wednesday around 1pm",
+    "entities": [
+      [
+        34,
+        43,
+        "DATE"
+      ],
+      [
+        51,
+        54,
+        "TIME"
+      ],
+      [
+        15,
+        25,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 641,
+    "text": "Meeting request: next Friday 4pm PST with John for 30 minutes",
+    "entities": [
+      [
+        17,
+        28,
+        "DATE"
+      ],
+      [
+        29,
+        32,
+        "TIME"
+      ],
+      [
+        33,
+        36,
+        "TIMEZONE"
+      ],
+      [
+        51,
+        61,
+        "DURATION"
+      ],
+      [
+        42,
+        46,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 642,
+    "text": "Can we meet next Monday at 5pm CST for 90 minutes?",
+    "entities": [
+      [
+        12,
+        23,
+        "DATE"
+      ],
+      [
+        27,
+        30,
+        "TIME"
+      ],
+      [
+        31,
+        34,
+        "TIMEZONE"
+      ],
+      [
+        39,
+        49,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 643,
+    "text": "How about next Monday at 4pm for 1 hour?",
+    "entities": [
+      [
+        10,
+        21,
+        "DATE"
+      ],
+      [
+        25,
+        28,
+        "TIME"
+      ],
+      [
+        33,
+        39,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 644,
+    "text": "Can we do next Thursday at 1pm PST? It should take 30 minutes",
+    "entities": [
+      [
+        10,
+        23,
+        "DATE"
+      ],
+      [
+        27,
+        30,
+        "TIME"
+      ],
+      [
+        31,
+        34,
+        "TIMEZONE"
+      ],
+      [
+        51,
+        61,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 645,
+    "text": "Meeting request: Friday 10am GMT with the marketing team for 30 minutes",
+    "entities": [
+      [
+        17,
+        23,
+        "DATE"
+      ],
+      [
+        24,
+        28,
+        "TIME"
+      ],
+      [
+        29,
+        32,
+        "TIMEZONE"
+      ],
+      [
+        61,
+        71,
+        "DURATION"
+      ],
+      [
+        38,
+        56,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 646,
+    "text": "How about Sunday at 9am for 2 hours?",
+    "entities": [
+      [
+        10,
+        16,
+        "DATE"
+      ],
+      [
+        20,
+        23,
+        "TIME"
+      ],
+      [
+        28,
+        35,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 647,
+    "text": "I'm free tomorrow 3pm GMT for 30 minutes",
+    "entities": [
+      [
+        9,
+        17,
+        "DATE"
+      ],
+      [
+        18,
+        21,
+        "TIME"
+      ],
+      [
+        22,
+        25,
+        "TIMEZONE"
+      ],
+      [
+        30,
+        40,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 648,
+    "text": "How about Wednesday at 3pm for 2 hours?",
+    "entities": [
+      [
+        10,
+        19,
+        "DATE"
+      ],
+      [
+        23,
+        26,
+        "TIME"
+      ],
+      [
+        31,
+        38,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 649,
+    "text": "Let's schedule 2 hours meeting Monday around 4pm",
+    "entities": [
+      [
+        31,
+        37,
+        "DATE"
+      ],
+      [
+        45,
+        48,
+        "TIME"
+      ],
+      [
+        15,
+        22,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 650,
+    "text": "How about Friday at 12pm for 45 minutes?",
+    "entities": [
+      [
+        10,
+        16,
+        "DATE"
+      ],
+      [
+        20,
+        24,
+        "TIME"
+      ],
+      [
+        29,
+        39,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 651,
+    "text": "Meeting request: next Friday 10am UTC with the marketing team for 90 minutes",
+    "entities": [
+      [
+        17,
+        28,
+        "DATE"
+      ],
+      [
+        29,
+        33,
+        "TIME"
+      ],
+      [
+        34,
+        37,
+        "TIMEZONE"
+      ],
+      [
+        66,
+        76,
+        "DURATION"
+      ],
+      [
+        43,
+        61,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 652,
+    "text": "the marketing team wants to meet Thursday 3pm PST",
+    "entities": [
+      [
+        33,
+        41,
+        "DATE"
+      ],
+      [
+        42,
+        45,
+        "TIME"
+      ],
+      [
+        46,
+        49,
+        "TIMEZONE"
+      ],
+      [
+        0,
+        18,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 653,
+    "text": "How about Monday at 1pm for 2 hours?",
+    "entities": [
+      [
+        10,
+        16,
+        "DATE"
+      ],
+      [
+        20,
+        23,
+        "TIME"
+      ],
+      [
+        28,
+        35,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 654,
+    "text": "Meeting request: Tuesday 12pm EST with Lisa for 45 minutes",
+    "entities": [
+      [
+        17,
+        24,
+        "DATE"
+      ],
+      [
+        25,
+        29,
+        "TIME"
+      ],
+      [
+        30,
+        33,
+        "TIMEZONE"
+      ],
+      [
+        48,
+        58,
+        "DURATION"
+      ],
+      [
+        39,
+        43,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 655,
+    "text": "How about day after tomorrow at 1pm for 90 minutes?",
+    "entities": [
+      [
+        10,
+        28,
+        "DATE"
+      ],
+      [
+        32,
+        35,
+        "TIME"
+      ],
+      [
+        40,
+        50,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 656,
+    "text": "Do you have time Sunday around 1pm PST?",
+    "entities": [
+      [
+        17,
+        23,
+        "DATE"
+      ],
+      [
+        31,
+        34,
+        "TIME"
+      ],
+      [
+        35,
+        38,
+        "TIMEZONE"
+      ]
+    ]
+  },
+  {
+    "id": 657,
+    "text": "Meeting request: Tuesday 1pm UTC with John for 30 minutes",
+    "entities": [
+      [
+        17,
+        24,
+        "DATE"
+      ],
+      [
+        25,
+        28,
+        "TIME"
+      ],
+      [
+        29,
+        32,
+        "TIMEZONE"
+      ],
+      [
+        47,
+        57,
+        "DURATION"
+      ],
+      [
+        38,
+        42,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 658,
+    "text": "Lisa wants to meet Wednesday 10am EST",
+    "entities": [
+      [
+        19,
+        28,
+        "DATE"
+      ],
+      [
+        29,
+        33,
+        "TIME"
+      ],
+      [
+        34,
+        37,
+        "TIMEZONE"
+      ],
+      [
+        0,
+        4,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 659,
+    "text": "Let's schedule 30 minutes meeting day after tomorrow around 2pm",
+    "entities": [
+      [
+        34,
+        52,
+        "DATE"
+      ],
+      [
+        60,
+        63,
+        "TIME"
+      ],
+      [
+        15,
+        25,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 660,
+    "text": "Can we do Monday at 10am EST? It should take 90 minutes",
+    "entities": [
+      [
+        10,
+        16,
+        "DATE"
+      ],
+      [
+        20,
+        24,
+        "TIME"
+      ],
+      [
+        25,
+        28,
+        "TIMEZONE"
+      ],
+      [
+        45,
+        55,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 661,
+    "text": "How about next Friday at 2pm for 45 minutes?",
+    "entities": [
+      [
+        10,
+        21,
+        "DATE"
+      ],
+      [
+        25,
+        28,
+        "TIME"
+      ],
+      [
+        33,
+        43,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 662,
+    "text": "Can we do next Tuesday at 9am EST? It should take 1 hour",
+    "entities": [
+      [
+        10,
+        22,
+        "DATE"
+      ],
+      [
+        26,
+        29,
+        "TIME"
+      ],
+      [
+        30,
+        33,
+        "TIMEZONE"
+      ],
+      [
+        50,
+        56,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 663,
+    "text": "Let's schedule 2 hours meeting Monday around 9am",
+    "entities": [
+      [
+        31,
+        37,
+        "DATE"
+      ],
+      [
+        45,
+        48,
+        "TIME"
+      ],
+      [
+        15,
+        22,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 664,
+    "text": "Let's schedule 1 hour meeting Saturday around 5pm",
+    "entities": [
+      [
+        30,
+        38,
+        "DATE"
+      ],
+      [
+        46,
+        49,
+        "TIME"
+      ],
+      [
+        15,
+        21,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 665,
+    "text": "David wants to meet Thursday 9am EST",
+    "entities": [
+      [
+        20,
+        28,
+        "DATE"
+      ],
+      [
+        29,
+        32,
+        "TIME"
+      ],
+      [
+        33,
+        36,
+        "TIMEZONE"
+      ],
+      [
+        0,
+        5,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 666,
+    "text": "How about Sunday at 2pm for 45 minutes?",
+    "entities": [
+      [
+        10,
+        16,
+        "DATE"
+      ],
+      [
+        20,
+        23,
+        "TIME"
+      ],
+      [
+        28,
+        38,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 667,
+    "text": "Let's schedule 30 minutes meeting Tuesday around 11am",
+    "entities": [
+      [
+        34,
+        41,
+        "DATE"
+      ],
+      [
+        49,
+        53,
+        "TIME"
+      ],
+      [
+        15,
+        25,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 668,
+    "text": "Do you have time Wednesday around 10am EST?",
+    "entities": [
+      [
+        17,
+        26,
+        "DATE"
+      ],
+      [
+        34,
+        38,
+        "TIME"
+      ],
+      [
+        39,
+        42,
+        "TIMEZONE"
+      ]
+    ]
+  },
+  {
+    "id": 669,
+    "text": "How about Friday at 2pm for 2 hours?",
+    "entities": [
+      [
+        10,
+        16,
+        "DATE"
+      ],
+      [
+        20,
+        23,
+        "TIME"
+      ],
+      [
+        28,
+        35,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 670,
+    "text": "Do you have time Friday around 2pm UTC?",
+    "entities": [
+      [
+        17,
+        23,
+        "DATE"
+      ],
+      [
+        31,
+        34,
+        "TIME"
+      ],
+      [
+        35,
+        38,
+        "TIMEZONE"
+      ]
+    ]
+  },
+  {
+    "id": 671,
+    "text": "the product team wants to meet Thursday 10am UTC",
+    "entities": [
+      [
+        31,
+        39,
+        "DATE"
+      ],
+      [
+        40,
+        44,
+        "TIME"
+      ],
+      [
+        45,
+        48,
+        "TIMEZONE"
+      ],
+      [
+        0,
+        16,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 672,
+    "text": "the marketing team wants to meet Wednesday 4pm UTC",
+    "entities": [
+      [
+        33,
+        42,
+        "DATE"
+      ],
+      [
+        43,
+        46,
+        "TIME"
+      ],
+      [
+        47,
+        50,
+        "TIMEZONE"
+      ],
+      [
+        0,
+        18,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 673,
+    "text": "How about Friday at 11am for 2 hours?",
+    "entities": [
+      [
+        10,
+        16,
+        "DATE"
+      ],
+      [
+        20,
+        24,
+        "TIME"
+      ],
+      [
+        29,
+        36,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 674,
+    "text": "Let's schedule 45 minutes meeting day after tomorrow around 5pm",
+    "entities": [
+      [
+        34,
+        52,
+        "DATE"
+      ],
+      [
+        60,
+        63,
+        "TIME"
+      ],
+      [
+        15,
+        25,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 675,
+    "text": "Can we do Saturday at 4pm EST? It should take 90 minutes",
+    "entities": [
+      [
+        10,
+        18,
+        "DATE"
+      ],
+      [
+        22,
+        25,
+        "TIME"
+      ],
+      [
+        26,
+        29,
+        "TIMEZONE"
+      ],
+      [
+        46,
+        56,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 676,
+    "text": "How about next Thursday at 12pm for 30 minutes?",
+    "entities": [
+      [
+        10,
+        23,
+        "DATE"
+      ],
+      [
+        27,
+        31,
+        "TIME"
+      ],
+      [
+        36,
+        46,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 677,
+    "text": "Let's schedule 90 minutes meeting Sunday around 10am",
+    "entities": [
+      [
+        34,
+        40,
+        "DATE"
+      ],
+      [
+        48,
+        52,
+        "TIME"
+      ],
+      [
+        15,
+        25,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 678,
+    "text": "Can we meet Monday at 1pm EST for 45 minutes?",
+    "entities": [
+      [
+        12,
+        18,
+        "DATE"
+      ],
+      [
+        22,
+        25,
+        "TIME"
+      ],
+      [
+        26,
+        29,
+        "TIMEZONE"
+      ],
+      [
+        34,
+        44,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 679,
+    "text": "How about Friday at 9am for 1 hour?",
+    "entities": [
+      [
+        10,
+        16,
+        "DATE"
+      ],
+      [
+        20,
+        23,
+        "TIME"
+      ],
+      [
+        28,
+        34,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 680,
+    "text": "Meeting request: next Thursday 4pm PST with Lisa for 45 minutes",
+    "entities": [
+      [
+        17,
+        30,
+        "DATE"
+      ],
+      [
+        31,
+        34,
+        "TIME"
+      ],
+      [
+        35,
+        38,
+        "TIMEZONE"
+      ],
+      [
+        53,
+        63,
+        "DURATION"
+      ],
+      [
+        44,
+        48,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 681,
+    "text": "Do you have time next Friday around 9am GMT?",
+    "entities": [
+      [
+        17,
+        28,
+        "DATE"
+      ],
+      [
+        36,
+        39,
+        "TIME"
+      ],
+      [
+        40,
+        43,
+        "TIMEZONE"
+      ]
+    ]
+  },
+  {
+    "id": 682,
+    "text": "Can we meet day after tomorrow at 10am PST for 1 hour?",
+    "entities": [
+      [
+        12,
+        30,
+        "DATE"
+      ],
+      [
+        34,
+        38,
+        "TIME"
+      ],
+      [
+        39,
+        42,
+        "TIMEZONE"
+      ],
+      [
+        47,
+        53,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 683,
+    "text": "How about Thursday at 3pm for 90 minutes?",
+    "entities": [
+      [
+        10,
+        18,
+        "DATE"
+      ],
+      [
+        22,
+        25,
+        "TIME"
+      ],
+      [
+        30,
+        40,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 684,
+    "text": "Let's schedule 90 minutes meeting next Tuesday around 1pm",
+    "entities": [
+      [
+        34,
+        46,
+        "DATE"
+      ],
+      [
+        54,
+        57,
+        "TIME"
+      ],
+      [
+        15,
+        25,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 685,
+    "text": "How about Monday at 11am for 90 minutes?",
+    "entities": [
+      [
+        10,
+        16,
+        "DATE"
+      ],
+      [
+        20,
+        24,
+        "TIME"
+      ],
+      [
+        29,
+        39,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 686,
+    "text": "Let's schedule 45 minutes meeting day after tomorrow around 1pm",
+    "entities": [
+      [
+        34,
+        52,
+        "DATE"
+      ],
+      [
+        60,
+        63,
+        "TIME"
+      ],
+      [
+        15,
+        25,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 687,
+    "text": "Can we meet Wednesday at 5pm GMT for 30 minutes?",
+    "entities": [
+      [
+        12,
+        21,
+        "DATE"
+      ],
+      [
+        25,
+        28,
+        "TIME"
+      ],
+      [
+        29,
+        32,
+        "TIMEZONE"
+      ],
+      [
+        37,
+        47,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 688,
+    "text": "How about day after tomorrow at 3pm for 1 hour?",
+    "entities": [
+      [
+        10,
+        28,
+        "DATE"
+      ],
+      [
+        32,
+        35,
+        "TIME"
+      ],
+      [
+        40,
+        46,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 689,
+    "text": "Meeting request: next Tuesday 2pm EST with John for 90 minutes",
+    "entities": [
+      [
+        17,
+        29,
+        "DATE"
+      ],
+      [
+        30,
+        33,
+        "TIME"
+      ],
+      [
+        34,
+        37,
+        "TIMEZONE"
+      ],
+      [
+        52,
+        62,
+        "DURATION"
+      ],
+      [
+        43,
+        47,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 690,
+    "text": "Sarah wants to meet Tuesday 3pm CST",
+    "entities": [
+      [
+        20,
+        27,
+        "DATE"
+      ],
+      [
+        28,
+        31,
+        "TIME"
+      ],
+      [
+        32,
+        35,
+        "TIMEZONE"
+      ],
+      [
+        0,
+        5,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 691,
+    "text": "John wants to meet Monday 9am CST",
+    "entities": [
+      [
+        19,
+        25,
+        "DATE"
+      ],
+      [
+        26,
+        29,
+        "TIME"
+      ],
+      [
+        30,
+        33,
+        "TIMEZONE"
+      ],
+      [
+        0,
+        4,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 692,
+    "text": "Can we do tomorrow at 9am MST? It should take 90 minutes",
+    "entities": [
+      [
+        10,
+        18,
+        "DATE"
+      ],
+      [
+        22,
+        25,
+        "TIME"
+      ],
+      [
+        26,
+        29,
+        "TIMEZONE"
+      ],
+      [
+        46,
+        56,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 693,
+    "text": "Meeting request: Monday 3pm PST with Lisa for 90 minutes",
+    "entities": [
+      [
+        17,
+        23,
+        "DATE"
+      ],
+      [
+        24,
+        27,
+        "TIME"
+      ],
+      [
+        28,
+        31,
+        "TIMEZONE"
+      ],
+      [
+        46,
+        56,
+        "DURATION"
+      ],
+      [
+        37,
+        41,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 694,
+    "text": "Can we do Sunday at 4pm EST? It should take 2 hours",
+    "entities": [
+      [
+        10,
+        16,
+        "DATE"
+      ],
+      [
+        20,
+        23,
+        "TIME"
+      ],
+      [
+        24,
+        27,
+        "TIMEZONE"
+      ],
+      [
+        44,
+        51,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 695,
+    "text": "the product team wants to meet tomorrow 3pm GMT",
+    "entities": [
+      [
+        31,
+        39,
+        "DATE"
+      ],
+      [
+        40,
+        43,
+        "TIME"
+      ],
+      [
+        44,
+        47,
+        "TIMEZONE"
+      ],
+      [
+        0,
+        16,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 696,
+    "text": "Can we do next Thursday at 2pm EST? It should take 30 minutes",
+    "entities": [
+      [
+        10,
+        23,
+        "DATE"
+      ],
+      [
+        27,
+        30,
+        "TIME"
+      ],
+      [
+        31,
+        34,
+        "TIMEZONE"
+      ],
+      [
+        51,
+        61,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 697,
+    "text": "Do you have time Saturday around 3pm CST?",
+    "entities": [
+      [
+        17,
+        25,
+        "DATE"
+      ],
+      [
+        33,
+        36,
+        "TIME"
+      ],
+      [
+        37,
+        40,
+        "TIMEZONE"
+      ]
+    ]
+  },
+  {
+    "id": 698,
+    "text": "Can we meet next Tuesday at 11am EST for 30 minutes?",
+    "entities": [
+      [
+        12,
+        24,
+        "DATE"
+      ],
+      [
+        28,
+        32,
+        "TIME"
+      ],
+      [
+        33,
+        36,
+        "TIMEZONE"
+      ],
+      [
+        41,
+        51,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 699,
+    "text": "Sarah wants to meet Friday 5pm GMT",
+    "entities": [
+      [
+        20,
+        26,
+        "DATE"
+      ],
+      [
+        27,
+        30,
+        "TIME"
+      ],
+      [
+        31,
+        34,
+        "TIMEZONE"
+      ],
+      [
+        0,
+        5,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 700,
+    "text": "Can we do Monday at 11am GMT? It should take 90 minutes",
+    "entities": [
+      [
+        10,
+        16,
+        "DATE"
+      ],
+      [
+        20,
+        24,
+        "TIME"
+      ],
+      [
+        25,
+        28,
+        "TIMEZONE"
+      ],
+      [
+        45,
+        55,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 701,
+    "text": "I'm free next Tuesday 3pm MST for 90 minutes",
+    "entities": [
+      [
+        9,
+        21,
+        "DATE"
+      ],
+      [
+        22,
+        25,
+        "TIME"
+      ],
+      [
+        26,
+        29,
+        "TIMEZONE"
+      ],
+      [
+        34,
+        44,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 702,
+    "text": "Let's schedule 90 minutes meeting next Thursday around 10am",
+    "entities": [
+      [
+        34,
+        47,
+        "DATE"
+      ],
+      [
+        55,
+        59,
+        "TIME"
+      ],
+      [
+        15,
+        25,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 703,
+    "text": "Can we do tomorrow at 10am PST? It should take 1 hour",
+    "entities": [
+      [
+        10,
+        18,
+        "DATE"
+      ],
+      [
+        22,
+        26,
+        "TIME"
+      ],
+      [
+        27,
+        30,
+        "TIMEZONE"
+      ],
+      [
+        47,
+        53,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 704,
+    "text": "Can we meet Sunday at 9am CST for 2 hours?",
+    "entities": [
+      [
+        12,
+        18,
+        "DATE"
+      ],
+      [
+        22,
+        25,
+        "TIME"
+      ],
+      [
+        26,
+        29,
+        "TIMEZONE"
+      ],
+      [
+        34,
+        41,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 705,
+    "text": "the product team wants to meet Monday 5pm PST",
+    "entities": [
+      [
+        31,
+        37,
+        "DATE"
+      ],
+      [
+        38,
+        41,
+        "TIME"
+      ],
+      [
+        42,
+        45,
+        "TIMEZONE"
+      ],
+      [
+        0,
+        16,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 706,
+    "text": "the product team wants to meet next Monday 5pm UTC",
+    "entities": [
+      [
+        31,
+        42,
+        "DATE"
+      ],
+      [
+        43,
+        46,
+        "TIME"
+      ],
+      [
+        47,
+        50,
+        "TIMEZONE"
+      ],
+      [
+        0,
+        16,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 707,
+    "text": "Do you have time next Thursday around 9am EST?",
+    "entities": [
+      [
+        17,
+        30,
+        "DATE"
+      ],
+      [
+        38,
+        41,
+        "TIME"
+      ],
+      [
+        42,
+        45,
+        "TIMEZONE"
+      ]
+    ]
+  },
+  {
+    "id": 708,
+    "text": "Can we do day after tomorrow at 3pm MST? It should take 90 minutes",
+    "entities": [
+      [
+        10,
+        28,
+        "DATE"
+      ],
+      [
+        32,
+        35,
+        "TIME"
+      ],
+      [
+        36,
+        39,
+        "TIMEZONE"
+      ],
+      [
+        56,
+        66,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 709,
+    "text": "Let's schedule 1 hour meeting tomorrow around 10am",
+    "entities": [
+      [
+        30,
+        38,
+        "DATE"
+      ],
+      [
+        46,
+        50,
+        "TIME"
+      ],
+      [
+        15,
+        21,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 710,
+    "text": "Can we meet next Thursday at 9am GMT for 30 minutes?",
+    "entities": [
+      [
+        12,
+        25,
+        "DATE"
+      ],
+      [
+        29,
+        32,
+        "TIME"
+      ],
+      [
+        33,
+        36,
+        "TIMEZONE"
+      ],
+      [
+        41,
+        51,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 711,
+    "text": "John wants to meet Friday 5pm UTC",
+    "entities": [
+      [
+        19,
+        25,
+        "DATE"
+      ],
+      [
+        26,
+        29,
+        "TIME"
+      ],
+      [
+        30,
+        33,
+        "TIMEZONE"
+      ],
+      [
+        0,
+        4,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 712,
+    "text": "Can we meet Monday at 12pm GMT for 2 hours?",
+    "entities": [
+      [
+        12,
+        18,
+        "DATE"
+      ],
+      [
+        22,
+        26,
+        "TIME"
+      ],
+      [
+        27,
+        30,
+        "TIMEZONE"
+      ],
+      [
+        35,
+        42,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 713,
+    "text": "Meeting request: next Monday 12pm UTC with David for 90 minutes",
+    "entities": [
+      [
+        17,
+        28,
+        "DATE"
+      ],
+      [
+        29,
+        33,
+        "TIME"
+      ],
+      [
+        34,
+        37,
+        "TIMEZONE"
+      ],
+      [
+        53,
+        63,
+        "DURATION"
+      ],
+      [
+        43,
+        48,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 714,
+    "text": "Meeting request: Friday 4pm MST with Sarah for 30 minutes",
+    "entities": [
+      [
+        17,
+        23,
+        "DATE"
+      ],
+      [
+        24,
+        27,
+        "TIME"
+      ],
+      [
+        28,
+        31,
+        "TIMEZONE"
+      ],
+      [
+        47,
+        57,
+        "DURATION"
+      ],
+      [
+        37,
+        42,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 715,
+    "text": "Do you have time Wednesday around 11am MST?",
+    "entities": [
+      [
+        17,
+        26,
+        "DATE"
+      ],
+      [
+        34,
+        38,
+        "TIME"
+      ],
+      [
+        39,
+        42,
+        "TIMEZONE"
+      ]
+    ]
+  },
+  {
+    "id": 716,
+    "text": "Let's schedule 30 minutes meeting Sunday around 1pm",
+    "entities": [
+      [
+        34,
+        40,
+        "DATE"
+      ],
+      [
+        48,
+        51,
+        "TIME"
+      ],
+      [
+        15,
+        25,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 717,
+    "text": "David wants to meet next Wednesday 1pm PST",
+    "entities": [
+      [
+        20,
+        34,
+        "DATE"
+      ],
+      [
+        35,
+        38,
+        "TIME"
+      ],
+      [
+        39,
+        42,
+        "TIMEZONE"
+      ],
+      [
+        0,
+        5,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 718,
+    "text": "Meeting request: next Wednesday 2pm UTC with the marketing team for 2 hours",
+    "entities": [
+      [
+        17,
+        31,
+        "DATE"
+      ],
+      [
+        32,
+        35,
+        "TIME"
+      ],
+      [
+        36,
+        39,
+        "TIMEZONE"
+      ],
+      [
+        68,
+        75,
+        "DURATION"
+      ],
+      [
+        45,
+        63,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 719,
+    "text": "I'm free next Monday 2pm MST for 1 hour",
+    "entities": [
+      [
+        9,
+        20,
+        "DATE"
+      ],
+      [
+        21,
+        24,
+        "TIME"
+      ],
+      [
+        25,
+        28,
+        "TIMEZONE"
+      ],
+      [
+        33,
+        39,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 720,
+    "text": "Do you have time next Friday around 11am EST?",
+    "entities": [
+      [
+        17,
+        28,
+        "DATE"
+      ],
+      [
+        36,
+        40,
+        "TIME"
+      ],
+      [
+        41,
+        44,
+        "TIMEZONE"
+      ]
+    ]
+  },
+  {
+    "id": 721,
+    "text": "Can we do Thursday at 9am PST? It should take 90 minutes",
+    "entities": [
+      [
+        10,
+        18,
+        "DATE"
+      ],
+      [
+        22,
+        25,
+        "TIME"
+      ],
+      [
+        26,
+        29,
+        "TIMEZONE"
+      ],
+      [
+        46,
+        56,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 722,
+    "text": "Meeting request: Sunday 5pm PST with Sarah for 1 hour",
+    "entities": [
+      [
+        17,
+        23,
+        "DATE"
+      ],
+      [
+        24,
+        27,
+        "TIME"
+      ],
+      [
+        28,
+        31,
+        "TIMEZONE"
+      ],
+      [
+        47,
+        53,
+        "DURATION"
+      ],
+      [
+        37,
+        42,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 723,
+    "text": "Do you have time next Tuesday around 3pm MST?",
+    "entities": [
+      [
+        17,
+        29,
+        "DATE"
+      ],
+      [
+        37,
+        40,
+        "TIME"
+      ],
+      [
+        41,
+        44,
+        "TIMEZONE"
+      ]
+    ]
+  },
+  {
+    "id": 724,
+    "text": "Do you have time Saturday around 11am CST?",
+    "entities": [
+      [
+        17,
+        25,
+        "DATE"
+      ],
+      [
+        33,
+        37,
+        "TIME"
+      ],
+      [
+        38,
+        41,
+        "TIMEZONE"
+      ]
+    ]
+  },
+  {
+    "id": 725,
+    "text": "How about next Monday at 4pm for 90 minutes?",
+    "entities": [
+      [
+        10,
+        21,
+        "DATE"
+      ],
+      [
+        25,
+        28,
+        "TIME"
+      ],
+      [
+        33,
+        43,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 726,
+    "text": "Do you have time Saturday around 4pm CST?",
+    "entities": [
+      [
+        17,
+        25,
+        "DATE"
+      ],
+      [
+        33,
+        36,
+        "TIME"
+      ],
+      [
+        37,
+        40,
+        "TIMEZONE"
+      ]
+    ]
+  },
+  {
+    "id": 727,
+    "text": "Can we do Tuesday at 10am GMT? It should take 1 hour",
+    "entities": [
+      [
+        10,
+        17,
+        "DATE"
+      ],
+      [
+        21,
+        25,
+        "TIME"
+      ],
+      [
+        26,
+        29,
+        "TIMEZONE"
+      ],
+      [
+        46,
+        52,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 728,
+    "text": "Do you have time Sunday around 12pm MST?",
+    "entities": [
+      [
+        17,
+        23,
+        "DATE"
+      ],
+      [
+        31,
+        35,
+        "TIME"
+      ],
+      [
+        36,
+        39,
+        "TIMEZONE"
+      ]
+    ]
+  },
+  {
+    "id": 729,
+    "text": "Do you have time next Thursday around 12pm UTC?",
+    "entities": [
+      [
+        17,
+        30,
+        "DATE"
+      ],
+      [
+        38,
+        42,
+        "TIME"
+      ],
+      [
+        43,
+        46,
+        "TIMEZONE"
+      ]
+    ]
+  },
+  {
+    "id": 730,
+    "text": "Can we do Wednesday at 1pm PST? It should take 90 minutes",
+    "entities": [
+      [
+        10,
+        19,
+        "DATE"
+      ],
+      [
+        23,
+        26,
+        "TIME"
+      ],
+      [
+        27,
+        30,
+        "TIMEZONE"
+      ],
+      [
+        47,
+        57,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 731,
+    "text": "Do you have time next Thursday around 3pm CST?",
+    "entities": [
+      [
+        17,
+        30,
+        "DATE"
+      ],
+      [
+        38,
+        41,
+        "TIME"
+      ],
+      [
+        42,
+        45,
+        "TIMEZONE"
+      ]
+    ]
+  },
+  {
+    "id": 732,
+    "text": "Let's schedule 30 minutes meeting next Thursday around 2pm",
+    "entities": [
+      [
+        34,
+        47,
+        "DATE"
+      ],
+      [
+        55,
+        58,
+        "TIME"
+      ],
+      [
+        15,
+        25,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 733,
+    "text": "I'm free next Monday 4pm MST for 90 minutes",
+    "entities": [
+      [
+        9,
+        20,
+        "DATE"
+      ],
+      [
+        21,
+        24,
+        "TIME"
+      ],
+      [
+        25,
+        28,
+        "TIMEZONE"
+      ],
+      [
+        33,
+        43,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 734,
+    "text": "Can we do day after tomorrow at 2pm CST? It should take 90 minutes",
+    "entities": [
+      [
+        10,
+        28,
+        "DATE"
+      ],
+      [
+        32,
+        35,
+        "TIME"
+      ],
+      [
+        36,
+        39,
+        "TIMEZONE"
+      ],
+      [
+        56,
+        66,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 735,
+    "text": "Meeting request: Thursday 1pm MST with John for 90 minutes",
+    "entities": [
+      [
+        17,
+        25,
+        "DATE"
+      ],
+      [
+        26,
+        29,
+        "TIME"
+      ],
+      [
+        30,
+        33,
+        "TIMEZONE"
+      ],
+      [
+        48,
+        58,
+        "DURATION"
+      ],
+      [
+        39,
+        43,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 736,
+    "text": "Meeting request: Thursday 4pm GMT with Sarah for 1 hour",
+    "entities": [
+      [
+        17,
+        25,
+        "DATE"
+      ],
+      [
+        26,
+        29,
+        "TIME"
+      ],
+      [
+        30,
+        33,
+        "TIMEZONE"
+      ],
+      [
+        49,
+        55,
+        "DURATION"
+      ],
+      [
+        39,
+        44,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 737,
+    "text": "I'm free Monday 5pm CST for 45 minutes",
+    "entities": [
+      [
+        9,
+        15,
+        "DATE"
+      ],
+      [
+        16,
+        19,
+        "TIME"
+      ],
+      [
+        20,
+        23,
+        "TIMEZONE"
+      ],
+      [
+        28,
+        38,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 738,
+    "text": "the product team wants to meet next Tuesday 9am UTC",
+    "entities": [
+      [
+        31,
+        43,
+        "DATE"
+      ],
+      [
+        44,
+        47,
+        "TIME"
+      ],
+      [
+        48,
+        51,
+        "TIMEZONE"
+      ],
+      [
+        0,
+        16,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 739,
+    "text": "Do you have time Saturday around 2pm CST?",
+    "entities": [
+      [
+        17,
+        25,
+        "DATE"
+      ],
+      [
+        33,
+        36,
+        "TIME"
+      ],
+      [
+        37,
+        40,
+        "TIMEZONE"
+      ]
+    ]
+  },
+  {
+    "id": 740,
+    "text": "Let's schedule 45 minutes meeting next Thursday around 4pm",
+    "entities": [
+      [
+        34,
+        47,
+        "DATE"
+      ],
+      [
+        55,
+        58,
+        "TIME"
+      ],
+      [
+        15,
+        25,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 741,
+    "text": "I'm free Friday 2pm PST for 30 minutes",
+    "entities": [
+      [
+        9,
+        15,
+        "DATE"
+      ],
+      [
+        16,
+        19,
+        "TIME"
+      ],
+      [
+        20,
+        23,
+        "TIMEZONE"
+      ],
+      [
+        28,
+        38,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 742,
+    "text": "Let's schedule 1 hour meeting Monday around 9am",
+    "entities": [
+      [
+        30,
+        36,
+        "DATE"
+      ],
+      [
+        44,
+        47,
+        "TIME"
+      ],
+      [
+        15,
+        21,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 743,
+    "text": "Do you have time tomorrow around 11am CST?",
+    "entities": [
+      [
+        17,
+        25,
+        "DATE"
+      ],
+      [
+        33,
+        37,
+        "TIME"
+      ],
+      [
+        38,
+        41,
+        "TIMEZONE"
+      ]
+    ]
+  },
+  {
+    "id": 744,
+    "text": "I'm free next Friday 4pm CST for 2 hours",
+    "entities": [
+      [
+        9,
+        20,
+        "DATE"
+      ],
+      [
+        21,
+        24,
+        "TIME"
+      ],
+      [
+        25,
+        28,
+        "TIMEZONE"
+      ],
+      [
+        33,
+        40,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 745,
+    "text": "Meeting request: Friday 5pm MST with John for 90 minutes",
+    "entities": [
+      [
+        17,
+        23,
+        "DATE"
+      ],
+      [
+        24,
+        27,
+        "TIME"
+      ],
+      [
+        28,
+        31,
+        "TIMEZONE"
+      ],
+      [
+        46,
+        56,
+        "DURATION"
+      ],
+      [
+        37,
+        41,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 746,
+    "text": "How about Friday at 2pm for 90 minutes?",
+    "entities": [
+      [
+        10,
+        16,
+        "DATE"
+      ],
+      [
+        20,
+        23,
+        "TIME"
+      ],
+      [
+        28,
+        38,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 747,
+    "text": "Meeting request: Tuesday 9am EST with the marketing team for 30 minutes",
+    "entities": [
+      [
+        17,
+        24,
+        "DATE"
+      ],
+      [
+        25,
+        28,
+        "TIME"
+      ],
+      [
+        29,
+        32,
+        "TIMEZONE"
+      ],
+      [
+        61,
+        71,
+        "DURATION"
+      ],
+      [
+        38,
+        56,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 748,
+    "text": "Do you have time Sunday around 12pm MST?",
+    "entities": [
+      [
+        17,
+        23,
+        "DATE"
+      ],
+      [
+        31,
+        35,
+        "TIME"
+      ],
+      [
+        36,
+        39,
+        "TIMEZONE"
+      ]
+    ]
+  },
+  {
+    "id": 749,
+    "text": "I'm free next Thursday 1pm CST for 30 minutes",
+    "entities": [
+      [
+        9,
+        22,
+        "DATE"
+      ],
+      [
+        23,
+        26,
+        "TIME"
+      ],
+      [
+        27,
+        30,
+        "TIMEZONE"
+      ],
+      [
+        35,
+        45,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 750,
+    "text": "Can we do Sunday at 4pm MST? It should take 2 hours",
+    "entities": [
+      [
+        10,
+        16,
+        "DATE"
+      ],
+      [
+        20,
+        23,
+        "TIME"
+      ],
+      [
+        24,
+        27,
+        "TIMEZONE"
+      ],
+      [
+        44,
+        51,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 751,
+    "text": "I'm free Thursday 10am UTC for 90 minutes",
+    "entities": [
+      [
+        9,
+        17,
+        "DATE"
+      ],
+      [
+        18,
+        22,
+        "TIME"
+      ],
+      [
+        23,
+        26,
+        "TIMEZONE"
+      ],
+      [
+        31,
+        41,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 752,
+    "text": "I'm free Saturday 5pm CST for 90 minutes",
+    "entities": [
+      [
+        9,
+        17,
+        "DATE"
+      ],
+      [
+        18,
+        21,
+        "TIME"
+      ],
+      [
+        22,
+        25,
+        "TIMEZONE"
+      ],
+      [
+        30,
+        40,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 753,
+    "text": "Meeting request: Monday 4pm EST with the product team for 90 minutes",
+    "entities": [
+      [
+        17,
+        23,
+        "DATE"
+      ],
+      [
+        24,
+        27,
+        "TIME"
+      ],
+      [
+        28,
+        31,
+        "TIMEZONE"
+      ],
+      [
+        58,
+        68,
+        "DURATION"
+      ],
+      [
+        37,
+        53,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 754,
+    "text": "Can we meet next Thursday at 10am MST for 2 hours?",
+    "entities": [
+      [
+        12,
+        25,
+        "DATE"
+      ],
+      [
+        29,
+        33,
+        "TIME"
+      ],
+      [
+        34,
+        37,
+        "TIMEZONE"
+      ],
+      [
+        42,
+        49,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 755,
+    "text": "How about next Thursday at 5pm for 1 hour?",
+    "entities": [
+      [
+        10,
+        23,
+        "DATE"
+      ],
+      [
+        27,
+        30,
+        "TIME"
+      ],
+      [
+        35,
+        41,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 756,
+    "text": "Do you have time Tuesday around 5pm EST?",
+    "entities": [
+      [
+        17,
+        24,
+        "DATE"
+      ],
+      [
+        32,
+        35,
+        "TIME"
+      ],
+      [
+        36,
+        39,
+        "TIMEZONE"
+      ]
+    ]
+  },
+  {
+    "id": 757,
+    "text": "Let's schedule 1 hour meeting Wednesday around 3pm",
+    "entities": [
+      [
+        30,
+        39,
+        "DATE"
+      ],
+      [
+        47,
+        50,
+        "TIME"
+      ],
+      [
+        15,
+        21,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 758,
+    "text": "Can we meet Friday at 10am EST for 2 hours?",
+    "entities": [
+      [
+        12,
+        18,
+        "DATE"
+      ],
+      [
+        22,
+        26,
+        "TIME"
+      ],
+      [
+        27,
+        30,
+        "TIMEZONE"
+      ],
+      [
+        35,
+        42,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 759,
+    "text": "Meeting request: Thursday 1pm EST with Sarah for 30 minutes",
+    "entities": [
+      [
+        17,
+        25,
+        "DATE"
+      ],
+      [
+        26,
+        29,
+        "TIME"
+      ],
+      [
+        30,
+        33,
+        "TIMEZONE"
+      ],
+      [
+        49,
+        59,
+        "DURATION"
+      ],
+      [
+        39,
+        44,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 760,
+    "text": "I'm free Saturday 10am GMT for 1 hour",
+    "entities": [
+      [
+        9,
+        17,
+        "DATE"
+      ],
+      [
+        18,
+        22,
+        "TIME"
+      ],
+      [
+        23,
+        26,
+        "TIMEZONE"
+      ],
+      [
+        31,
+        37,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 761,
+    "text": "Do you have time tomorrow around 5pm PST?",
+    "entities": [
+      [
+        17,
+        25,
+        "DATE"
+      ],
+      [
+        33,
+        36,
+        "TIME"
+      ],
+      [
+        37,
+        40,
+        "TIMEZONE"
+      ]
+    ]
+  },
+  {
+    "id": 762,
+    "text": "Let's schedule 45 minutes meeting Thursday around 2pm",
+    "entities": [
+      [
+        34,
+        42,
+        "DATE"
+      ],
+      [
+        50,
+        53,
+        "TIME"
+      ],
+      [
+        15,
+        25,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 763,
+    "text": "Meeting request: Friday 3pm GMT with the product team for 30 minutes",
+    "entities": [
+      [
+        17,
+        23,
+        "DATE"
+      ],
+      [
+        24,
+        27,
+        "TIME"
+      ],
+      [
+        28,
+        31,
+        "TIMEZONE"
+      ],
+      [
+        58,
+        68,
+        "DURATION"
+      ],
+      [
+        37,
+        53,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 764,
+    "text": "I'm free Friday 10am MST for 2 hours",
+    "entities": [
+      [
+        9,
+        15,
+        "DATE"
+      ],
+      [
+        16,
+        20,
+        "TIME"
+      ],
+      [
+        21,
+        24,
+        "TIMEZONE"
+      ],
+      [
+        29,
+        36,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 765,
+    "text": "How about tomorrow at 10am for 45 minutes?",
+    "entities": [
+      [
+        10,
+        18,
+        "DATE"
+      ],
+      [
+        22,
+        26,
+        "TIME"
+      ],
+      [
+        31,
+        41,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 766,
+    "text": "I'm free next Tuesday 1pm CST for 1 hour",
+    "entities": [
+      [
+        9,
+        21,
+        "DATE"
+      ],
+      [
+        22,
+        25,
+        "TIME"
+      ],
+      [
+        26,
+        29,
+        "TIMEZONE"
+      ],
+      [
+        34,
+        40,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 767,
+    "text": "Meeting request: Sunday 4pm PST with John for 2 hours",
+    "entities": [
+      [
+        17,
+        23,
+        "DATE"
+      ],
+      [
+        24,
+        27,
+        "TIME"
+      ],
+      [
+        28,
+        31,
+        "TIMEZONE"
+      ],
+      [
+        46,
+        53,
+        "DURATION"
+      ],
+      [
+        37,
+        41,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 768,
+    "text": "Sarah wants to meet Wednesday 11am MST",
+    "entities": [
+      [
+        20,
+        29,
+        "DATE"
+      ],
+      [
+        30,
+        34,
+        "TIME"
+      ],
+      [
+        35,
+        38,
+        "TIMEZONE"
+      ],
+      [
+        0,
+        5,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 769,
+    "text": "Do you have time Tuesday around 9am EST?",
+    "entities": [
+      [
+        17,
+        24,
+        "DATE"
+      ],
+      [
+        32,
+        35,
+        "TIME"
+      ],
+      [
+        36,
+        39,
+        "TIMEZONE"
+      ]
+    ]
+  },
+  {
+    "id": 770,
+    "text": "the product team wants to meet next Tuesday 9am EST",
+    "entities": [
+      [
+        31,
+        43,
+        "DATE"
+      ],
+      [
+        44,
+        47,
+        "TIME"
+      ],
+      [
+        48,
+        51,
+        "TIMEZONE"
+      ],
+      [
+        0,
+        16,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 771,
+    "text": "Let's schedule 2 hours meeting next Thursday around 11am",
+    "entities": [
+      [
+        31,
+        44,
+        "DATE"
+      ],
+      [
+        52,
+        56,
+        "TIME"
+      ],
+      [
+        15,
+        22,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 772,
+    "text": "David wants to meet Friday 4pm UTC",
+    "entities": [
+      [
+        20,
+        26,
+        "DATE"
+      ],
+      [
+        27,
+        30,
+        "TIME"
+      ],
+      [
+        31,
+        34,
+        "TIMEZONE"
+      ],
+      [
+        0,
+        5,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 773,
+    "text": "Can we meet next Thursday at 4pm UTC for 90 minutes?",
+    "entities": [
+      [
+        12,
+        25,
+        "DATE"
+      ],
+      [
+        29,
+        32,
+        "TIME"
+      ],
+      [
+        33,
+        36,
+        "TIMEZONE"
+      ],
+      [
+        41,
+        51,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 774,
+    "text": "Can we meet Sunday at 4pm PST for 2 hours?",
+    "entities": [
+      [
+        12,
+        18,
+        "DATE"
+      ],
+      [
+        22,
+        25,
+        "TIME"
+      ],
+      [
+        26,
+        29,
+        "TIMEZONE"
+      ],
+      [
+        34,
+        41,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 775,
+    "text": "Meeting request: Friday 1pm UTC with John for 1 hour",
+    "entities": [
+      [
+        17,
+        23,
+        "DATE"
+      ],
+      [
+        24,
+        27,
+        "TIME"
+      ],
+      [
+        28,
+        31,
+        "TIMEZONE"
+      ],
+      [
+        46,
+        52,
+        "DURATION"
+      ],
+      [
+        37,
+        41,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 776,
+    "text": "Can we meet tomorrow at 12pm CST for 1 hour?",
+    "entities": [
+      [
+        12,
+        20,
+        "DATE"
+      ],
+      [
+        24,
+        28,
+        "TIME"
+      ],
+      [
+        29,
+        32,
+        "TIMEZONE"
+      ],
+      [
+        37,
+        43,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 777,
+    "text": "Lisa wants to meet next Tuesday 1pm GMT",
+    "entities": [
+      [
+        19,
+        31,
+        "DATE"
+      ],
+      [
+        32,
+        35,
+        "TIME"
+      ],
+      [
+        36,
+        39,
+        "TIMEZONE"
+      ],
+      [
+        0,
+        4,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 778,
+    "text": "Do you have time Sunday around 5pm UTC?",
+    "entities": [
+      [
+        17,
+        23,
+        "DATE"
+      ],
+      [
+        31,
+        34,
+        "TIME"
+      ],
+      [
+        35,
+        38,
+        "TIMEZONE"
+      ]
+    ]
+  },
+  {
+    "id": 779,
+    "text": "How about tomorrow at 4pm for 45 minutes?",
+    "entities": [
+      [
+        10,
+        18,
+        "DATE"
+      ],
+      [
+        22,
+        25,
+        "TIME"
+      ],
+      [
+        30,
+        40,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 780,
+    "text": "Meeting request: next Friday 5pm EST with the marketing team for 45 minutes",
+    "entities": [
+      [
+        17,
+        28,
+        "DATE"
+      ],
+      [
+        29,
+        32,
+        "TIME"
+      ],
+      [
+        33,
+        36,
+        "TIMEZONE"
+      ],
+      [
+        65,
+        75,
+        "DURATION"
+      ],
+      [
+        42,
+        60,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 781,
+    "text": "Meeting request: tomorrow 11am PST with the marketing team for 45 minutes",
+    "entities": [
+      [
+        17,
+        25,
+        "DATE"
+      ],
+      [
+        26,
+        30,
+        "TIME"
+      ],
+      [
+        31,
+        34,
+        "TIMEZONE"
+      ],
+      [
+        63,
+        73,
+        "DURATION"
+      ],
+      [
+        40,
+        58,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 782,
+    "text": "Do you have time Tuesday around 11am EST?",
+    "entities": [
+      [
+        17,
+        24,
+        "DATE"
+      ],
+      [
+        32,
+        36,
+        "TIME"
+      ],
+      [
+        37,
+        40,
+        "TIMEZONE"
+      ]
+    ]
+  },
+  {
+    "id": 783,
+    "text": "I'm free Saturday 4pm PST for 45 minutes",
+    "entities": [
+      [
+        9,
+        17,
+        "DATE"
+      ],
+      [
+        18,
+        21,
+        "TIME"
+      ],
+      [
+        22,
+        25,
+        "TIMEZONE"
+      ],
+      [
+        30,
+        40,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 784,
+    "text": "Can we meet next Friday at 1pm PST for 30 minutes?",
+    "entities": [
+      [
+        12,
+        23,
+        "DATE"
+      ],
+      [
+        27,
+        30,
+        "TIME"
+      ],
+      [
+        31,
+        34,
+        "TIMEZONE"
+      ],
+      [
+        39,
+        49,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 785,
+    "text": "Meeting request: Sunday 5pm MST with David for 1 hour",
+    "entities": [
+      [
+        17,
+        23,
+        "DATE"
+      ],
+      [
+        24,
+        27,
+        "TIME"
+      ],
+      [
+        28,
+        31,
+        "TIMEZONE"
+      ],
+      [
+        47,
+        53,
+        "DURATION"
+      ],
+      [
+        37,
+        42,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 786,
+    "text": "Let's schedule 1 hour meeting next Wednesday around 11am",
+    "entities": [
+      [
+        30,
+        44,
+        "DATE"
+      ],
+      [
+        52,
+        56,
+        "TIME"
+      ],
+      [
+        15,
+        21,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 787,
+    "text": "Can we meet Tuesday at 12pm MST for 30 minutes?",
+    "entities": [
+      [
+        12,
+        19,
+        "DATE"
+      ],
+      [
+        23,
+        27,
+        "TIME"
+      ],
+      [
+        28,
+        31,
+        "TIMEZONE"
+      ],
+      [
+        36,
+        46,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 788,
+    "text": "Do you have time next Thursday around 12pm CST?",
+    "entities": [
+      [
+        17,
+        30,
+        "DATE"
+      ],
+      [
+        38,
+        42,
+        "TIME"
+      ],
+      [
+        43,
+        46,
+        "TIMEZONE"
+      ]
+    ]
+  },
+  {
+    "id": 789,
+    "text": "Meeting request: next Wednesday 10am GMT with the product team for 30 minutes",
+    "entities": [
+      [
+        17,
+        31,
+        "DATE"
+      ],
+      [
+        32,
+        36,
+        "TIME"
+      ],
+      [
+        37,
+        40,
+        "TIMEZONE"
+      ],
+      [
+        67,
+        77,
+        "DURATION"
+      ],
+      [
+        46,
+        62,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 790,
+    "text": "Meeting request: Wednesday 1pm CST with the product team for 1 hour",
+    "entities": [
+      [
+        17,
+        26,
+        "DATE"
+      ],
+      [
+        27,
+        30,
+        "TIME"
+      ],
+      [
+        31,
+        34,
+        "TIMEZONE"
+      ],
+      [
+        61,
+        67,
+        "DURATION"
+      ],
+      [
+        40,
+        56,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 791,
+    "text": "Can we meet Wednesday at 11am PST for 1 hour?",
+    "entities": [
+      [
+        12,
+        21,
+        "DATE"
+      ],
+      [
+        25,
+        29,
+        "TIME"
+      ],
+      [
+        30,
+        33,
+        "TIMEZONE"
+      ],
+      [
+        38,
+        44,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 792,
+    "text": "Meeting request: day after tomorrow 12pm UTC with the product team for 90 minutes",
+    "entities": [
+      [
+        17,
+        35,
+        "DATE"
+      ],
+      [
+        36,
+        40,
+        "TIME"
+      ],
+      [
+        41,
+        44,
+        "TIMEZONE"
+      ],
+      [
+        71,
+        81,
+        "DURATION"
+      ],
+      [
+        50,
+        66,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 793,
+    "text": "Can we meet Monday at 5pm MST for 30 minutes?",
+    "entities": [
+      [
+        12,
+        18,
+        "DATE"
+      ],
+      [
+        22,
+        25,
+        "TIME"
+      ],
+      [
+        26,
+        29,
+        "TIMEZONE"
+      ],
+      [
+        34,
+        44,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 794,
+    "text": "John wants to meet Tuesday 9am MST",
+    "entities": [
+      [
+        19,
+        26,
+        "DATE"
+      ],
+      [
+        27,
+        30,
+        "TIME"
+      ],
+      [
+        31,
+        34,
+        "TIMEZONE"
+      ],
+      [
+        0,
+        4,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 795,
+    "text": "Meeting request: next Friday 2pm EST with the marketing team for 30 minutes",
+    "entities": [
+      [
+        17,
+        28,
+        "DATE"
+      ],
+      [
+        29,
+        32,
+        "TIME"
+      ],
+      [
+        33,
+        36,
+        "TIMEZONE"
+      ],
+      [
+        65,
+        75,
+        "DURATION"
+      ],
+      [
+        42,
+        60,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 796,
+    "text": "Do you have time next Tuesday around 1pm EST?",
+    "entities": [
+      [
+        17,
+        29,
+        "DATE"
+      ],
+      [
+        37,
+        40,
+        "TIME"
+      ],
+      [
+        41,
+        44,
+        "TIMEZONE"
+      ]
+    ]
+  },
+  {
+    "id": 797,
+    "text": "Let's schedule 90 minutes meeting next Monday around 1pm",
+    "entities": [
+      [
+        34,
+        45,
+        "DATE"
+      ],
+      [
+        53,
+        56,
+        "TIME"
+      ],
+      [
+        15,
+        25,
+        "DURATION"
+      ]
+    ]
+  },
+  {
+    "id": 798,
+    "text": "Lisa wants to meet tomorrow 2pm UTC",
+    "entities": [
+      [
+        19,
+        27,
+        "DATE"
+      ],
+      [
+        28,
+        31,
+        "TIME"
+      ],
+      [
+        32,
+        35,
+        "TIMEZONE"
+      ],
+      [
+        0,
+        4,
+        "ATTENDEE"
+      ]
+    ]
+  },
+  {
+    "id": 799,
+    "text": "Can we meet Wednesday at 4pm MST for 45 minutes?",
+    "entities": [
+      [
+        12,
+        21,
+        "DATE"
+      ],
+      [
+        25,
+        28,
+        "TIME"
+      ],
+      [
+        29,
+        32,
+        "TIMEZONE"
+      ],
+      [
+        37,
+        47,
+        "DURATION"
+      ]
+    ]
+  }
+]
